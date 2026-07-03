@@ -10,7 +10,8 @@
 - 📫 Reach me at **dollar4444@gmail.com**
 
 ### 🔝 Top Contributed Repo
-![](https://github-repository-contribution-stat-nine.vercel.app/api?username=OlegApanovich&limit=4&theme=swift&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=OlegApanovich&limit=4&theme=swift&combine_all_yearly_contributions=true)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshbhutkar/yogeshbhutkar/output/github-snake-dark.svg" />
